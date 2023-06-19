@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    float speed = 5;
+    float speed = 8;
     Vector3 dir = Vector3.zero; //ˆÚ“®•ûŒü‚ğ•Û‘¶‚·‚é•Ï”
 
     Animator anim;
